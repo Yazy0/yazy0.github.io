@@ -127,6 +127,7 @@ body {
 
 .projects1{
     display: flex;
+    text-align:center;
 }
 
 .p3{
